@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/10/30 13:09:23.738,=C:\Users\yake\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/30 13:16:47.540,C:\Users\yake\Documents\Embarcadero\Studio\Projects\屏幕DPI测试\Unit1.dfm=C:\Users\yake\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/30 13:16:47.540,C:\Users\yake\Documents\Embarcadero\Studio\Projects\屏幕DPI测试\Unit1.pas=C:\Users\yake\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/30 13:16:49.680,C:\Users\yake\Documents\Embarcadero\Studio\Projects\屏幕DPI测试\Project1.dproj=C:\Users\yake\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/10/30 13:18:15.136,C:\Users\yake\Documents\Embarcadero\Studio\Projects\屏幕DPI测试\get_DPI.dproj=C:\Users\yake\Documents\Embarcadero\Studio\Projects\屏幕DPI测试\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
